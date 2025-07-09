@@ -1,0 +1,1 @@
+{"inference_config": {"FINGERPRINT_FEATURE": true, "OUTLIER_REMOVAL_STD": 9.0, "POLYNOMIAL_FEATURES": "no", "PREPROCESS_TRANSFORMS": [{"append_original": false, "categorical_name": "none", "global_transformer_name": "svd", "name": "quantile_uni", "subsample_features": -1}], "SUBSAMPLE_SAMPLES": null}}
